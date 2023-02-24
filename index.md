@@ -15,4 +15,4 @@
 
 [Link](url) and ![Image](src)
 
-{{ site.time }}
+Site Time : {{ site.time }}
